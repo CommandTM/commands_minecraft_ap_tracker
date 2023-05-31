@@ -1,0 +1,1 @@
+Tracker:AddLocations("locations/story/story.json")

@@ -1,0 +1,235 @@
+[
+    {
+        "name": "Ender Pearls",
+        "type": "consumable",
+        "img": "images/items/ender_pearl.png",
+        "codes": "ender_pearls",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "overlay_font_size": 14
+    },
+    {
+        "name": "Netherite Scrap",
+        "type": "consumable",
+        "img": "images/items/netherite_scrap.png",
+        "codes": "netherite_scrap",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "overlay_font_size": 14
+    },
+    {
+        "name": "Dragon Egg Shard",
+        "type": "consumable",
+        "img": "images/items/dragon_egg.png",
+        "codes": "egg_shards",
+        "min_quantity": 0,
+        "max_quantity": 74,
+        "overlay_font_size": 14
+    },
+    {
+        "name": "Progressive Tools",
+        "type": "progressive",
+        "codes": "progressive_tools",
+        "stages": [
+            {
+                "img": "images/items/wooden_pickaxe.png",
+                "disabled_img_mods": "none",
+                "codes": "tools_1",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/stone_pickaxe.png",
+                "disabled_img_mods": "none",
+                "codes": "tools_2",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/iron_pickaxe.png",
+                "codes": "tools_3",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/diamond_pickaxe.png",
+                "codes": "tools_4",
+                "inherit_codes": true
+            }
+        ]
+    },
+    {
+        "name": "Progressive Weapons",
+        "type": "progressive",
+        "codes": "progressive_weapons",
+        "stages": [
+            {
+                "img": "images/items/wooden_sword.png",
+                "disabled_img_mods": "none",
+                "codes": "weapons_1",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/stone_sword.png",
+                "disabled_img_mods": "none",
+                "codes": "weapons_2",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/iron_sword.png",
+                "disabled_img_mods": "none",
+                "codes": "weapons_3",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/diamond_sword.png",
+                "disabled_img_mods": "none",
+                "codes": "weapons_4",
+                "inherit_codes": true
+            }
+        ]
+    },
+    {
+        "name": "Progressive Armor",
+        "type": "progressive",
+        "codes": "progressive_armor",
+        "stages": [
+            {
+                "img": "images/items/leather_chestplate.png",
+                "disabled_img_mods": "none",
+                "codes": "armor_1",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/iron_chestplate.png",
+                "disabled_img_mods": "none",
+                "codes": "armor_2",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/diamond_chestplate.png",
+                "disabled_img_mods": "none",
+                "codes": "armor_3",
+                "inherit_codes": true
+            }
+        ]
+    },
+    {
+        "name": "Progressive Resource Crafting",
+        "type": "progressive",
+        "codes": "progressive_resource_crafting",
+        "stages": [
+            {
+                "img": "images/items/barrier.png",
+                "disabled_img_mods": "none",
+                "codes": "craft_1",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/iron_ingot.png",
+                "disabled_img_mods": "none",
+                "codes": "craft_2",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/iron_block.png",
+                "disabled_img_mods": "none",
+                "codes": "craft_3",
+                "inherit_codes": true
+            }
+        ]
+    },
+    {
+        "name": "Brewing",
+        "type": "toggle",
+        "img": "images/items/brewing_stand.png",
+        "codes": "brewing"
+    },
+    {
+        "name": "Bucket",
+        "type": "toggle",
+        "img": "images/items/bucket.png",
+        "codes": "bucket"
+    },
+    {
+        "name": "Archery",
+        "type": "toggle",
+        "img": "images/items/archery.png",
+        "codes": "archery"
+    },
+    {
+        "name": "Shield",
+        "type": "toggle",
+        "img": "images/items/sheild.png",
+        "codes": "sheild"
+    },
+    {
+        "name": "Bed",
+        "type": "toggle",
+        "img": "images/items/bed.png",
+        "codes": "bed"
+    },
+    {
+        "name": "Bottles",
+        "type": "toggle",
+        "img": "images/items/bottle.png",
+        "codes": "bottles"
+    },
+    {
+        "name": "Flint and Steel",
+        "type": "toggle",
+        "img": "images/items/flint_and_steel.png",
+        "codes": "flint_and_steel"
+    },
+    {
+        "name": "Enchanting",
+        "type": "toggle",
+        "img": "images/items/enchanted_book.png",
+        "codes": "enchanting"
+    },
+    {
+        "name": "Fishing Rod",
+        "type": "toggle",
+        "img": "images/items/fishing_rod.png",
+        "codes": "fishing_rod"
+    },
+    {
+        "name": "Campfire",
+        "type": "toggle",
+        "img": "images/items/campfire.png",
+        "codes": "campfire"
+    },
+    {
+        "name": "Spyglass",
+        "type": "toggle",
+        "img": "images/items/spyglass.png",
+        "codes": "spyglass"
+    },
+    {
+        "name": "Lead",
+        "type": "toggle",
+        "img": "images/items/lead.png",
+        "codes": "lead"
+    },
+    {
+        "name": "Saddle",
+        "type": "toggle",
+        "img": "images/items/saddle.png",
+        "codes": "saddle"
+    },
+    {
+        "name": "Channeling Book",
+        "type": "toggle",
+        "img": "images/items/trident_book.png",
+        "codes": "channeling"
+    },
+    {
+        "name": "Silk Touch Book",
+        "type": "toggle",
+        "img": "images/items/pickaxe_book.png",
+        "codes": "silk_touch"
+    },
+    {
+        "name": "Piercing IV Book",
+        "type": "toggle",
+        "img": "images/items/crossbow_book.png",
+        "codes": "piercing"
+    }
+]

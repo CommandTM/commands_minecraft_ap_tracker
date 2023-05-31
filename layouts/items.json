@@ -1,0 +1,47 @@
+{
+    "tracker_items": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "4,4",
+                "item_size": "4,4",
+                "rows": [
+                    [
+                        "progressive_tools",
+                        "progressive_weapons",
+                        "progressive_armor",
+                        "progressive_resource_crafting",
+                        "brewing",
+                        "ender_pearls"
+                    ],
+                    [
+                        "bucket",
+                        "archery",
+                        "sheild",
+                        "bed",
+                        "bottles",
+                        "netherite_scrap"
+                    ],
+                    [
+                        "flint_and_steel",
+                        "enchanting",
+                        "fishing_rod",
+                        "campfire",
+                        "spyglass",
+                        "egg_shards"
+                    ],
+                    [
+                        "lead",
+                        "saddle",
+                        "channeling",
+                        "silk_touch",
+                        "piercing"
+                    ]
+                ]
+            }
+        ]
+    }
+}

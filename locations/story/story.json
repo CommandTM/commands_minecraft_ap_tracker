@@ -1,0 +1,200 @@
+[
+    {
+        "name": "Minecraft",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 95,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "name": "Stone Age",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 95,
+                "y": 121
+            }
+        ]
+    },
+    {
+        "name": "Getting An Upgrade",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+                "chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["tools_2"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 95,
+                "y": 199
+            }
+        ]
+    },
+    {
+        "name": "Acquire Hardware",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_2],[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 95,
+                "y": 277
+            }
+        ]
+    },
+    {
+        "name": "Suit Up",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_2],[craft_2],[armor_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 95,
+                "y": 355
+            }
+        ]
+    },
+    {
+        "name": "Hot Stuff",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_2],[craft_2],[bucket]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 95,
+                "y": 433
+            }
+        ]
+    },
+    {
+        "name": "Isn't It Iron Pick",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_3],[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 95,
+                "y": 511
+            }
+        ]
+    },
+    {
+        "name": "Not Today, Thank You",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_2],[craft_2],[sheild]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 95,
+                "y": 589
+            }
+        ]
+    },
+    {
+        "name": "Ice Bucket Challenge",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_4],[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 95,
+                "y": 667
+            }
+        ]
+    },
+    {
+        "name": "Diamonds!",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_3],[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 95,
+                "y": 745
+            }
+        ]
+    }
+]
