@@ -53,7 +53,7 @@
             {
                 "map": "Story",
                 "x": 95,
-                "y": 199
+                "y": 201
             }
         ]
     },
@@ -73,7 +73,7 @@
             {
                 "map": "Story",
                 "x": 95,
-                "y": 277
+                "y": 281
             }
         ]
     },
@@ -93,7 +93,7 @@
             {
                 "map": "Story",
                 "x": 95,
-                "y": 355
+                "y": 360
             }
         ]
     },
@@ -113,7 +113,7 @@
             {
                 "map": "Story",
                 "x": 95,
-                "y": 433
+                "y": 440
             }
         ]
     },
@@ -133,7 +133,7 @@
             {
                 "map": "Story",
                 "x": 95,
-                "y": 511
+                "y": 519
             }
         ]
     },
@@ -153,7 +153,7 @@
             {
                 "map": "Story",
                 "x": 95,
-                "y": 589
+                "y": 597
             }
         ]
     },
@@ -173,7 +173,7 @@
             {
                 "map": "Story",
                 "x": 95,
-                "y": 667
+                "y": 678
             }
         ]
     },
@@ -193,7 +193,127 @@
             {
                 "map": "Story",
                 "x": 95,
-                "y": 745
+                "y": 758
+            }
+        ]
+    },
+    {
+        "name": "We Need to Go Deeper",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[flint_and_steel],[tools_4]","[flint_and_steel],[bucket]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 303,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "name": "Cover Me with Diamonds",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_3],[armor_3],[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 303,
+                "y": 121
+            }
+        ]
+    },
+    {
+        "name": "Enchanter",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+                "chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_4],tools_3,enchanting"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 303,
+                "y": 201
+            }
+        ]
+    },
+    {
+        "name": "Zombie Doctor",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Goal Reached",
+                "chest_unopened_img": "images/checks/goal_not_reached.png",
+				"chest_opened_img": "images/checks/goal_reached.png",
+                "access_rules": ["[tools_3],[brewing],[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 303,
+                "y": 281
+            }
+        ]
+    },
+    {
+        "name": "Eye Spy",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[brewing],[flint_and_steel],[tools_4]","[brewing],[flint_and_steel],[bucket]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 303,
+                "y": 360
+            }
+        ]
+    },
+    {
+        "name": "The End?",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["brewing,[flint_and_steel],[tools_4]","brewing,[flint_and_steel],[bucket]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 303,
+                "y": 440
             }
         ]
     }
