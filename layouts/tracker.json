@@ -114,12 +114,5 @@
                 }
             ]
         }
-    },
-    "tracker_broadcast": {
-        "type": "container",
-        "content": {
-            "type": "layout",
-            "key": "tracker_items"
-        }
     }
 }

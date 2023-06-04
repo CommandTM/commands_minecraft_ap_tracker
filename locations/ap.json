@@ -221,7 +221,7 @@
                 "name": "Goal Reached",
                 "chest_unopened_img": "images/checks/goal_not_reached.png",
 				"chest_opened_img": "images/checks/goal_reached.png",
-                "access_rules": ["[tools_2]"],
+                "access_rules": ["[tools_4],[enchanting]","[tools_4],[craft_3]"],
                 "item_count": 1
             }
         ],

@@ -1,0 +1,589 @@
+[
+    {
+        "name": "Adventure",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 95,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "name": "Voluntary Exile",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 95,
+                "y": 121
+            }
+        ]
+    },
+    {
+        "name": "Is It a Bird?",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["spyglass"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 95,
+                "y": 201
+            }
+        ]
+    },
+    {
+        "name": "Monster Hunter",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 95,
+                "y": 281
+            }
+        ]
+    },
+    {
+        "name": "What a Deal!",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 95,
+                "y": 360
+            }
+        ]
+    },
+    {
+        "name": "Sticky Situation",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[bottles]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 95,
+                "y": 440
+            }
+        ]
+    },
+    {
+        "name": "Ol' Betsy",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[archery]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 95,
+                "y": 519
+            }
+        ]
+    },
+    {
+        "name": "Ol' Betsy",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_2],[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 95,
+                "y": 597
+            }
+        ]
+    },
+    {
+        "name": "Caves & Cliffs",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 95,
+                "y": 678
+            }
+        ]
+    },
+    {
+        "name": "Sneak 100",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 95,
+                "y": 758
+            }
+        ]
+    },
+    {
+        "name": "Sweet Dreams",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[bed]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 248,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "name": "Hero of the Village",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 248,
+                "y": 121
+            }
+        ]
+    },
+    {
+        "name": "Is It a Ballon?",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["spyglass,[tools_4],[craft_2],[flint_and_steel]","[flint_and_steel],[bucket],spyglass"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 248,
+                "y": 201
+            }
+        ]
+    },
+    {
+        "name": "A Throwaway Joke",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 248,
+                "y": 281
+            }
+        ]
+    },
+    {
+        "name": "It Spreads",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 248,
+                "y": 360
+            }
+        ]
+    },
+    {
+        "name": "Take Aim",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[archery]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 248,
+                "y": 440
+            }
+        ]
+    },
+    {
+        "name": "Monsters Hunted",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["[brewing],[tools_4],[craft_2],[flint_and_steel]","[flint_and_steel],[bucket],[brewing]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 248,
+                "y": 519
+            }
+        ]
+    },
+    {
+        "name": "Postmortal",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Goal Reached",
+                "chest_unopened_img": "images/checks/goal_not_reached.png",
+				"chest_opened_img": "images/checks/goal_reached.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 248,
+                "y": 597
+            }
+        ]
+    },
+    {
+        "name": "Hired Help",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Goal Reached",
+                "chest_unopened_img": "images/checks/goal_not_reached.png",
+				"chest_opened_img": "images/checks/goal_reached.png",
+                "access_rules": ["[tools_2],[craft_3]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 248,
+                "y": 678
+            }
+        ]
+    },
+    {
+        "name": "Star Trader",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 248,
+                "y": 758
+            }
+        ]
+    },
+    {
+        "name": "Two Birds, One Arrow",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["enchanting,[archery]","[craft_3],piercing,[archery]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 389,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "name": "Who's the Pillager Now?",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[archery]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 389,
+                "y": 121
+            }
+        ]
+    },
+    {
+        "name": "Arbalistic",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["enchanting,[archery]","[craft_3],piercing,[archery]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 389,
+                "y": 201
+            }
+        ]
+    },
+    {
+        "name": "Adventuring Time",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 389,
+                "y": 281
+            }
+        ]
+    },
+    {
+        "name": "Sound of Music",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_3],[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 389,
+                "y": 360
+            }
+        ]
+    },
+    {
+        "name": "Light as a Rabbit",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 389,
+                "y": 440
+            }
+        ]
+    },
+    {
+        "name": "Is It a Plane?",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["brewing,spyglass"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 389,
+                "y": 519
+            }
+        ]
+    },
+    {
+        "name": "Very Very Frightening",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["enchanting","[craft_3],channeling"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 389,
+                "y": 597
+            }
+        ]
+    },
+    {
+        "name": "Sniper Duel",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["[archery]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 389,
+                "y": 678
+            }
+        ]
+    },
+    {
+        "name": "Bullseye",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["[archery]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Adventure",
+                "x": 389,
+                "y": 758
+            }
+        ]
+    }
+]
