@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Getting Wood",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 95,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "name": "Cow Tipper",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 95,
+                "y": 121
+            }
+        ]
+    },
+    {
+        "name": "On A Rail",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Goal Reached",
+                "chest_unopened_img": "images/checks/goal_not_reached.png",
+				"chest_opened_img": "images/checks/goal_reached.png",
+                "access_rules": ["[tools_2],[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 95,
+                "y": 201
+            }
+        ]
+    },
+    {
+        "name": "Bake Bread",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 95,
+                "y": 281
+            }
+        ]
+    },
+    {
+        "name": "Time To Mine!",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 95,
+                "y": 360
+            }
+        ]
+    },
+    {
+        "name": "Time To Strike!",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 95,
+                "y": 440
+            }
+        ]
+    },
+    {
+        "name": "Librarian",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["enchanting","[craft_3],silk_touch"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 95,
+                "y": 519
+            }
+        ]
+    },
+    {
+        "name": "When Pigs Fly",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["[saddle]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 95,
+                "y": 597
+            }
+        ]
+    },
+    {
+        "name": "Overpowered",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[craft_3]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 95,
+                "y": 678
+            }
+        ]
+    },
+    {
+        "name": "The Lie",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 95,
+                "y": 758
+            }
+        ]
+    },
+    {
+        "name": "Hot Topic",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 303,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "name": "Overkill",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Goal Reached",
+                "chest_unopened_img": "images/checks/goal_not_reached.png",
+				"chest_opened_img": "images/checks/goal_reached.png",
+                "access_rules": ["[tools_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "AP",
+                "x": 303,
+                "y": 121
+            }
+        ]
+    }
+]

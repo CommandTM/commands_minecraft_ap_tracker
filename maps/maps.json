@@ -28,5 +28,11 @@
         "location_size": 20,
         "location_border_thickness": 4,
         "img": "images/maps/husbandry.png"
+    },
+    {
+        "name": "AP",
+        "location_size": 20,
+        "location_border_thickness": 4,
+        "img": "images/maps/ap.png"
     }
 ]
