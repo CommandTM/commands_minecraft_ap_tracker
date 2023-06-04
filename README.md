@@ -8,6 +8,6 @@ A [Poptracker](https://github.com/black-sliver/PopTracker) pack meant for use wi
 - Location Logic
 
 ## Upcoming Features
+- Manual Options
 - AP Autotracking
 - VR Friendly Layout
-- Manual Options

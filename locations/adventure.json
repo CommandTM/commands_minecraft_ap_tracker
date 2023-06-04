@@ -136,7 +136,7 @@
         ]
     },
     {
-        "name": "Ol' Betsy",
+        "name": "Surge Protector",
         "access_rules": [],
         "sections": [
             {
@@ -276,9 +276,9 @@
         "access_rules": [],
         "sections": [
             {
-                "name": "Advancement Made",
-                "chest_unopened_img": "images/checks/advancement_not_made.png",
-				"chest_opened_img": "images/checks/advancement_made.png",
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
                 "item_count": 1
             }
         ],
