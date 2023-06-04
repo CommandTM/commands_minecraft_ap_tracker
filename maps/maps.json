@@ -16,5 +16,17 @@
         "location_size": 20,
         "location_border_thickness": 4,
         "img": "images/maps/the_end.png"
+    },
+    {
+        "name": "Adventure",
+        "location_size": 20,
+        "location_border_thickness": 4,
+        "img": "images/maps/adventure.png"
+    },
+    {
+        "name": "Husbandry",
+        "location_size": 20,
+        "location_border_thickness": 4,
+        "img": "images/maps/husbandry.png"
     }
 ]

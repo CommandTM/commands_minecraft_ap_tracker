@@ -8,35 +8,48 @@
             "content": [
                 {
                     "type": "dock",
-                    "dock": "bottom",
+                    "dock": "left",
                     "v_alignment": "stretch",
                     "content": [
                         {
-                            "type": "group",
-                            "header": "Items",
-                            "dock": "left",
-                            "content": {
-                                "type": "layout",
-                                "key": "tracker_items"
-                            },
-                            "header_content": {
-                                "type": "button_popup",
-                                "style": "settings",
-                                "popup_background": "#55212121",
-                                "layout": "settings_popup"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Pinned Locations",
-                            "content": {
-                                "type": "recentpins",
-                                "style": "wrap",
-                                "h_alignment": "stretch",
-                                "v_alignment": "stretch",
-                                "orientation": "horizontal",
-                                "compact": true
-                            }
+                            "type": "tabbed",
+                            "tabs": [
+                                {
+                                    "title": "Items",
+                                    "content": {
+                                        "type": "group",
+                                        "header": "Items",
+                                        "dock": "left",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "tracker_items"
+                                        }
+                                    }
+                                },
+                                {
+                                    "title": "Options",
+                                    "content": {
+                                        "type": "group",
+                                        "header": "Options",
+                                        "dock": "left"
+                                    }
+                                },
+                                {
+                                    "title": "Pinned Locations",
+                                    "content": {
+                                        "type": "group",
+                                        "header": "Pinned Locations",
+                                        "content": {
+                                            "type": "recentpins",
+                                            "style": "wrap",
+                                            "h_alignment": "stretch",
+                                            "v_alignment": "stretch",
+                                            "orientation": "horizontal",
+                                            "compact": true
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },
@@ -67,6 +80,24 @@
                                 "type": "map",
                                 "maps": [
                                     "The End"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Adventure",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Adventure"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Husbandry",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Husbandry"
                                 ]
                             }
                         }
