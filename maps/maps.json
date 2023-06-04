@@ -10,5 +10,11 @@
         "location_size": 20,
         "location_border_thickness": 4,
         "img": "images/maps/Nether.png"
+    },
+    {
+        "name": "The End",
+        "location_size": 20,
+        "location_border_thickness": 4,
+        "img": "images/maps/the_end.png"
     }
 ]

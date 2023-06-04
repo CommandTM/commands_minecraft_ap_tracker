@@ -60,6 +60,15 @@
                                     "Nether"
                                 ]
                             }
+                        },
+                        {
+                            "title": "The End",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "The End"
+                                ]
+                            }
                         }
                     ]
                 }

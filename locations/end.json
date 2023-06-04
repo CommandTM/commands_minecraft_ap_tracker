@@ -1,0 +1,182 @@
+[
+    {
+        "name": "The End?",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["brewing"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "The End",
+                "x": 95,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "name": "Free The End",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["brewing"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "The End",
+                "x": 95,
+                "y": 121
+            }
+        ]
+    },
+    {
+        "name": "The Next Generation",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Goal Reached",
+                "chest_unopened_img": "images/checks/goal_not_reached.png",
+				"chest_opened_img": "images/checks/goal_reached.png",
+                "access_rules": ["brewing"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "The End",
+                "x": 95,
+                "y": 201
+            }
+        ]
+    },
+    {
+        "name": "Free The End",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["brewing"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "The End",
+                "x": 95,
+                "y": 281
+            }
+        ]
+    },
+    {
+        "name": "The End... Again...",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Goal Reached",
+                "chest_unopened_img": "images/checks/goal_not_reached.png",
+				"chest_opened_img": "images/checks/goal_reached.png",
+                "access_rules": ["[tools_4],[craft_2],[flint_and_steel],brewing","[flint_and_steel],[bucket],brewing"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "The End",
+                "x": 95,
+                "y": 360
+            }
+        ]
+    },
+    {
+        "name": "You Need a Mint",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Goal Reached",
+                "chest_unopened_img": "images/checks/goal_not_reached.png",
+				"chest_opened_img": "images/checks/goal_reached.png",
+                "access_rules": ["brewing,[bottles]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "The End",
+                "x": 95,
+                "y": 440
+            }
+        ]
+    },
+    {
+        "name": "The City at the End of the Game",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[brewing]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "The End",
+                "x": 95,
+                "y": 519
+            }
+        ]
+    },
+    {
+        "name": "Sky's the Limit",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Goal Reached",
+                "chest_unopened_img": "images/checks/goal_not_reached.png",
+				"chest_opened_img": "images/checks/goal_reached.png",
+                "access_rules": ["[brewing]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "The End",
+                "x": 95,
+                "y": 597
+            }
+        ]
+    },
+    {
+        "name": "Great View From Up Here",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["[brewing]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "The End",
+                "x": 95,
+                "y": 678
+            }
+        ]
+    }
+]
