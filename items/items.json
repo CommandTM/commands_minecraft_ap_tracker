@@ -1,23 +1,5 @@
 [
     {
-        "name": "Ender Pearls",
-        "type": "consumable",
-        "img": "images/items/ender_pearl.png",
-        "codes": "ender_pearls",
-        "min_quantity": 0,
-        "max_quantity": 4,
-        "overlay_font_size": 14
-    },
-    {
-        "name": "Netherite Scrap",
-        "type": "consumable",
-        "img": "images/items/netherite_scrap.png",
-        "codes": "netherite_scrap",
-        "min_quantity": 0,
-        "max_quantity": 2,
-        "overlay_font_size": 14
-    },
-    {
         "name": "Dragon Egg Shard",
         "type": "consumable",
         "img": "images/items/dragon_egg.png",

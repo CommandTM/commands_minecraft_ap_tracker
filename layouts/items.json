@@ -15,23 +15,21 @@
                         "progressive_armor",
                         "progressive_resource_crafting",
                         "brewing",
-                        "ender_pearls"
+                        "egg_shards"
                     ],
                     [
                         "bucket",
                         "archery",
                         "sheild",
                         "bed",
-                        "bottles",
-                        "netherite_scrap"
+                        "bottles"
                     ],
                     [
                         "flint_and_steel",
                         "enchanting",
                         "fishing_rod",
                         "campfire",
-                        "spyglass",
-                        "egg_shards"
+                        "spyglass"
                     ],
                     [
                         "lead",

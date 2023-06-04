@@ -1,1 +1,2 @@
-Tracker:AddLocations("locations/story/story.json")
+Tracker:AddLocations("locations/story.json")
+Tracker:AddLocations("locations/nether.json")

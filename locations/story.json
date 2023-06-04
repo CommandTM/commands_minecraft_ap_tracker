@@ -205,7 +205,7 @@
                 "name": "Advancement Made",
                 "chest_unopened_img": "images/checks/advancement_not_made.png",
 				"chest_opened_img": "images/checks/advancement_made.png",
-                "access_rules": ["[flint_and_steel],[tools_4]","[flint_and_steel],[bucket]"],
+                "access_rules": ["[tools_4],[craft_2],[flint_and_steel]","[flint_and_steel],[bucket]"],
                 "item_count": 1
             }
         ],

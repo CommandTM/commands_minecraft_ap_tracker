@@ -1,0 +1,474 @@
+[
+    {
+        "name": "Nether",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_4],[craft_2],[flint_and_steel]","[flint_and_steel],[bucket]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 95,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "name": "Return To Sender",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 95,
+                "y": 121
+            }
+        ]
+    },
+    {
+        "name": "Those Were the Days",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 95,
+                "y": 201
+            }
+        ]
+    },
+    {
+        "name": "Hideen in the Depths",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_4],[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 95,
+                "y": 281
+            }
+        ]
+    },
+    {
+        "name": "Subspace Bubble",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["[tools_4],[craft_2],[flint_and_steel]","[flint_and_steel],[bucket]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 95,
+                "y": 360
+            }
+        ]
+    },
+    {
+        "name": "A Terrible Fortress",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 95,
+                "y": 440
+            }
+        ]
+    },
+    {
+        "name": "Who is Cutting Onions?",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 95,
+                "y": 519
+            }
+        ]
+    },
+    {
+        "name": "Oh Shiny",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 95,
+                "y": 597
+            }
+        ]
+    },
+    {
+        "name": "This Boat Has Legs",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[fishing_rod]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 95,
+                "y": 678
+            }
+        ]
+    },
+    {
+        "name": "Uneasy Alliance",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["[tools_4],[craft_2],[flint_and_steel]","[flint_and_steel],[bucket]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 95,
+                "y": 758
+            }
+        ]
+    },
+    {
+        "name": "War Pigs",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 265,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "name": "Country Lode, Take Me Home",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_4],[craft_2]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 265,
+                "y": 121
+            }
+        ]
+    },
+    {
+        "name": "Cover Me in Debris",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["[tools_4],[craft_2],[armor_3]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 265,
+                "y": 201
+            }
+        ]
+    },
+    {
+        "name": "Spooky Scary Skeleton",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 265,
+                "y": 281
+            }
+        ]
+    },
+    {
+        "name": "Into Fire",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 265,
+                "y": 360
+            }
+        ]
+    },
+    {
+        "name": "Who is Cutting Onions?",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[craft_3],[silk_touch]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 265,
+                "y": 440
+            }
+        ]
+    },
+    {
+        "name": "Feels Like Home",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_4],[craft_2],[flint_and_steel],[fishing_rod]","[flint_and_steel],[bucket],[fishing_rod]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 265,
+                "y": 519
+            }
+        ]
+    },
+    {
+        "name": "Hot Tourist Desinations",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 265,
+                "y": 597
+            }
+        ]
+    },
+    {
+        "name": "Withering Heights",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 265,
+                "y": 678
+            }
+        ]
+    },
+    {
+        "name": "Local Brewery",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[brewing],[bottles]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 265,
+                "y": 758
+            }
+        ]
+    },
+    {
+        "name": "Bring Home the Beacon",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Advancement Made",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "access_rules": ["[tools_4],[craft_3],craft_2","[tools_4],[craft_3],silk_touch"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 420,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "name": "A Furious Cocktail",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["brewing,[bottles]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 420,
+                "y": 121
+            }
+        ]
+    },
+    {
+        "name": "Beaconator",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Goal Reached",
+                "chest_unopened_img": "images/checks/goal_not_reached.png",
+				"chest_opened_img": "images/checks/goal_reached.png",
+                "access_rules": ["[tools_4],[craft_3],craft_2","[tools_4],[craft_3],silk_touch"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 420,
+                "y": 201
+            }
+        ]
+    },
+    {
+        "name": "How Did We Get Here?",
+        "access_rules": [],
+        "sections": [
+            {
+                "name": "Challenge Complete",
+                "chest_unopened_img": "images/checks/challenge_not_complete.png",
+				"chest_opened_img": "images/checks/challenge_complete.png",
+                "access_rules": ["brewing,[bottles]"],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Nether",
+                "x": 420,
+                "y": 281
+            }
+        ]
+    }
+]

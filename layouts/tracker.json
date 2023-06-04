@@ -51,6 +51,15 @@
                                     "Story"
                                 ]
                             }
+                        },
+                        {
+                            "title": "Nether",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Nether"
+                                ]
+                            }
                         }
                     ]
                 }
