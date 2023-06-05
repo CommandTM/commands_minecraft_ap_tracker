@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Required Advancements",
+        "type": "consumable",
+        "img": "images/checks/challenge_complete.png",
+        "codes": "required_advancements",
+        "min_quantity": 0,
+        "max_quantity": 114,
+        "overlay_font_size": 14
+    }
+]

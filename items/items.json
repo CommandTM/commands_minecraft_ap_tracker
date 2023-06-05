@@ -9,6 +9,15 @@
         "overlay_font_size": 14
     },
     {
+        "name": "Advancements Made",
+        "type": "consumable",
+        "img": "images/checks/challenge_complete.png",
+        "codes": "advancements",
+        "min_quantity": 0,
+        "max_quantity": 114,
+        "overlay_font_size": 14
+    },
+    {
         "name": "Progressive Tools",
         "type": "progressive",
         "codes": "progressive_tools",
