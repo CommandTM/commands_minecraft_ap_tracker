@@ -16,5 +16,11 @@
         "min_quantity": 0,
         "max_quantity": 74,
         "overlay_font_size": 14
+    },
+    {
+        "name": "Hard Advancements",
+        "type": "toggle",
+        "codes": "hard_advancements",
+        "img": "images/items/nether_star.png"
     }
 ]

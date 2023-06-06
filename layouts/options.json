@@ -11,7 +11,8 @@
                 "rows": [
                     [
                         "required_advancements",
-                        "required_egg_shards"
+                        "required_egg_shards",
+                        "hard_advancements"
                     ]
                 ]
             }

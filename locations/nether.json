@@ -178,7 +178,7 @@
     },
     {
         "name": "Uneasy Alliance",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Challenge Complete",
@@ -237,7 +237,7 @@
     },
     {
         "name": "Cover Me in Debris",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Challenge Complete",
@@ -413,7 +413,7 @@
     },
     {
         "name": "A Furious Cocktail",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Challenge Complete",
@@ -433,7 +433,7 @@
     },
     {
         "name": "Beaconator",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Goal Reached",
