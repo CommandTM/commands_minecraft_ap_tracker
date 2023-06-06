@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Goal",
+        "access_rules": ["$Advancement,$EggShards"],
+        "sections": [
+            {
+                "name": "Game Completed",
+                "chest_unopened_img": "images/checks/advancement_not_made.png",
+				"chest_opened_img": "images/checks/advancement_made.png",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Story",
+                "x": 199,
+                "y": 175
+            }
+        ]
+    }
+]

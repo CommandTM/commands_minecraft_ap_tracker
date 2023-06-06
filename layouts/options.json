@@ -10,7 +10,8 @@
                 "item_size": "4,4",
                 "rows": [
                     [
-                        "required_advancements"
+                        "required_advancements",
+                        "required_egg_shards"
                     ]
                 ]
             }
