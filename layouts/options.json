@@ -12,7 +12,8 @@
                     [
                         "required_advancements",
                         "required_egg_shards",
-                        "hard_advancements"
+                        "hard_advancements",
+                        "crazy_advancements"
                     ]
                 ]
             }

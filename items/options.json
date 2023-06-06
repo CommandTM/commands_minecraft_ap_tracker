@@ -22,5 +22,17 @@
         "type": "toggle",
         "codes": "hard_advancements",
         "img": "images/items/nether_star.png"
+    },
+    {
+        "name": "Hard Advancements",
+        "type": "toggle",
+        "codes": "hard_advancements",
+        "img": "images/items/nether_star.png"
+    },
+    {
+        "name": "Unreasonable Advancements",
+        "type": "toggle",
+        "codes": "crazy_advancements",
+        "img": "images/items/beacon.png"
     }
 ]
