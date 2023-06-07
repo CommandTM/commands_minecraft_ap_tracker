@@ -1,7 +1,7 @@
 [
     {
         "name": "Goal",
-        "access_rules": ["$Advancement,$EggShards"],
+        "access_rules": ["$Advancement,$EggShards,$BossAccess"],
         "sections": [
             {
                 "name": "Game Completed",

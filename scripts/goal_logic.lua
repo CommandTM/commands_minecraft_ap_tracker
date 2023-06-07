@@ -9,3 +9,13 @@ function EggShards()
 	local requiredEggShards = Tracker:ProviderCountForCode("required_egg_shards")
 	return (currentEggShards >= requiredEggShards)
 end
+
+function BossAccess()
+	if Tracker:ProviderCountForCode("goal")==1 then
+		if Tracker:FindObjectForCode("@The End?/Advancement Made").AvailableChectCount==1 then
+			return 0
+		else
+			return 1
+		end
+	end
+end

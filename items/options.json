@@ -34,5 +34,37 @@
         "type": "toggle",
         "codes": "crazy_advancements",
         "img": "images/items/beacon.png"
+    },
+    {
+        "name": "Goal",
+        "type": "progressive",
+        "codes": "goal",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "None",
+                "codes": "no_goal",
+                "img": "images/items/barrier.png",
+                "inherit_codes": false
+            },
+            {
+                "name": "Ender Dragon",
+                "codes": "dragon",
+                "img": "images/items/ender_dragon.png",
+                "inherit_codes": false
+            },
+            {
+                "name": "Wither",
+                "codes": "wither",
+                "img": "images/items/wither.png",
+                "inherit_codes": false
+            },
+            {
+                "name": "Both",
+                "codes": "both",
+                "img": "images/items/both.png",
+                "inherit_codes": false
+            }
+        ]
     }
 ]
