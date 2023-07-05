@@ -1,0 +1,23 @@
+ITEM_MAPPING = {
+    [45000] = {"archery","toggle"},
+    [45001] = {"progressive_resource_crafting","progressive"},
+    [45003] = {"brewing","toggle"},
+    [45004] = {"enchanting","toggle"},
+    [45005] = {"bucket","toggle"},
+    [45006] = {"flint_and_steel","toggle"},
+    [45007] = {"bed","toggle"},
+    [45008] = {"bottles","toggle"},
+    [45009] = {"sheild","toggle"},
+    [45010] = {"fishing_rod","toggle"},
+    [45011] = {"campfire","toggle"},
+    [45012] = {"progressive_weapons","progressive"},
+    [45013] = {"progressive_tools","progressive"},
+    [45014] = {"progressive_armor","progressive"},
+    [45018] = {"channeling","toggle"},
+    [45019] = {"silk_touch","toggle"},
+    [45021] = {"piercing","toggle"},
+    [45036] = {"saddle","toggle"},
+    [45043] = {"egg_shards","consumable"},
+    [45044] = {"spyglass","toggle"},
+    [45045] = {"lead","toggle"}
+}
