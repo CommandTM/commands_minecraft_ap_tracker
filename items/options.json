@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Required Advancements",
+        "type": "consumable",
+        "img": "images/checks/challenge_complete.png",
+        "codes": "required_advancements",
+        "min_quantity": 0,
+        "max_quantity": 114,
+        "overlay_font_size": 14
+    },
+    {
+        "name": "Required Dragon Egg Shards",
+        "type": "consumable",
+        "img": "images/items/dragon_egg.png",
+        "codes": "required_egg_shards",
+        "min_quantity": 0,
+        "max_quantity": 74,
+        "overlay_font_size": 14
+    },
+    {
+        "name": "Hard Advancements",
+        "type": "toggle",
+        "codes": "hard_advancements",
+        "img": "images/items/nether_star.png"
+    },
+    {
+        "name": "Hard Advancements",
+        "type": "toggle",
+        "codes": "hard_advancements",
+        "img": "images/items/nether_star.png"
+    },
+    {
+        "name": "Unreasonable Advancements",
+        "type": "toggle",
+        "codes": "crazy_advancements",
+        "img": "images/items/beacon.png"
+    },
+    {
+        "name": "Goal",
+        "type": "progressive",
+        "codes": "goal",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "None",
+                "codes": "no_goal",
+                "img": "images/items/barrier.png",
+                "inherit_codes": false
+            },
+            {
+                "name": "Ender Dragon",
+                "codes": "dragon",
+                "img": "images/items/ender_dragon.png",
+                "inherit_codes": false
+            },
+            {
+                "name": "Wither",
+                "codes": "wither",
+                "img": "images/items/wither.png",
+                "inherit_codes": false
+            },
+            {
+                "name": "Both",
+                "codes": "both",
+                "img": "images/items/both.png",
+                "inherit_codes": false
+            }
+        ]
+    }
+]

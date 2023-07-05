@@ -137,7 +137,7 @@
     },
     {
         "name": "Surge Protector",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Advancement Made",
@@ -312,7 +312,7 @@
     },
     {
         "name": "Monsters Hunted",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Challenge Complete",
@@ -371,7 +371,7 @@
     },
     {
         "name": "Star Trader",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Advancement Made",
@@ -390,7 +390,7 @@
     },
     {
         "name": "Two Birds, One Arrow",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Challenge Complete",
@@ -430,7 +430,7 @@
     },
     {
         "name": "Arbalistic",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Challenge Complete",
@@ -450,7 +450,7 @@
     },
     {
         "name": "Adventuring Time",
-        "access_rules": [],
+        "visibility_rules": ["crazy_advancements"],
         "sections": [
             {
                 "name": "Challenge Complete",
@@ -469,7 +469,7 @@
     },
     {
         "name": "Sound of Music",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Advancement Made",
@@ -528,7 +528,7 @@
     },
     {
         "name": "Very Very Frightening",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Advancement Made",

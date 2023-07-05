@@ -234,7 +234,7 @@
     },
     {
         "name": "Two by Two",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Challenge Complete",
@@ -273,7 +273,7 @@
     },
     {
         "name": "A Complete Catalouge",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Challenge Complete",
@@ -312,7 +312,7 @@
     },
     {
         "name": "When the Squad Hops into Town",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Advancement Made",
@@ -332,7 +332,7 @@
     },
     {
         "name": "A Balanced Diet",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Challenge Complete",
@@ -411,7 +411,7 @@
     },
     {
         "name": "With Our Powers Combined!",
-        "access_rules": [],
+        "visibility_rules": ["hard_advancements"],
         "sections": [
             {
                 "name": "Challenge Complete",

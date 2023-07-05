@@ -31,7 +31,11 @@
                                     "content": {
                                         "type": "group",
                                         "header": "Options",
-                                        "dock": "left"
+                                        "dock": "left",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "tracker_options"
+                                        }
                                     }
                                 },
                                 {
