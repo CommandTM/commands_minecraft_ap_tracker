@@ -8,5 +8,6 @@ Tracker:AddLayouts("layouts/options.json")
 
 ScriptHost:LoadScript("scripts/loadlocations.lua")
 ScriptHost:LoadScript("scripts/goal_logic.lua")
+ScriptHost:LoadScript("scripts/ap_tracking.lua")
 
 Tracker:AddLayouts("layouts/tracker.json")
